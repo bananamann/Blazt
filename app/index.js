@@ -1,0 +1,1 @@
+var blazt = angular.module("Blazt", []);

@@ -1,0 +1,28 @@
+{
+  "name": "blazt",
+  "version": "1.0.0",
+  "description": "Blazt is an application that shows reviews and recommendations for businesses including bars, restaurants and more",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "express": "^4.15.3",
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananamann/Blazt.git"
+  },
+  "keywords": [
+    "blazt"
+  ],
+  "author": "Pierce Irvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bananamann/Blazt/issues"
+  },
+  "homepage": "https://github.com/bananamann/Blazt#readme"
+}
