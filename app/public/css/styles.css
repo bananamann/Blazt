@@ -1,29 +1,6 @@
 html, body { height: 100%; width: 100%; margin: 0; }
 div { height: 100%; width: 100%; }
 
-.header-menu {
-	position:absolute;
-	height:150px;
-	line-height:150px;
-	vertical-align:middle;
-}
-
-.header-menu > ul {
-	list-style-type:none;
-}
-
-.header-menu > ul > li > a {
-	color:#FFF;
-	text-decoration:none;
-	font-size:18px;
-	margin-left:25px;
-}
-
-.header-menu > ul > li > a:hover {
-	padding-bottom:4px;
-	border-bottom:3px solid white;
-}
-
 .header-image {
 	display:block;
 	width:100%;
@@ -33,4 +10,33 @@ div { height: 100%; width: 100%; }
 	background-size:cover;
 	background-position:0 60%;
 
+}
+
+#mainOptions {
+
+}
+
+#main > ul {
+	list-style-type:none;
+}
+
+#main > ul > li > a {
+	color:#FFF;
+	text-decoration:none;
+	font-size:18px;
+	margin-left:25px;
+}
+
+#main > ul > li > a:hover {
+	padding-bottom:4px;
+	border-bottom:3px solid white;
+}
+
+#mainOptions {
+	display:inline-block;
+	margin-top:20%;
+}
+
+#mainOptions > label {
+	color:#FFF;
 }
